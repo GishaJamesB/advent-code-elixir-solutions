@@ -1,4 +1,5 @@
-defmodule Day1 do
+defmodule Day1Part1 do
+  # https://adventofcode.com/2021/day/1
   def get_result() do
     stream = File.stream!("sample.txt")
 
